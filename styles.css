@@ -6,6 +6,7 @@ body {
   margin: 50px auto;
   border-radius: 30px;
   box-shadow: 0 0 20px;
+  padding: 20px;
 }
 h1 {
   boder-bottom: 1px solid;
