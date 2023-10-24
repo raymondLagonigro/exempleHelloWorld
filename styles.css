@@ -1,0 +1,14 @@
+body {
+  font-family: verdana, sans-serif;
+}
+#container {
+  width: 60%;
+  margin: 50px auto;
+  border-radius: 30px;
+  box-shadow: 0 0 20px;
+}
+h1 {
+  boder-bottom: 1px solid;
+  width: 60%;
+  text-align: center;
+}
