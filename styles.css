@@ -9,7 +9,7 @@ body {
   padding: 20px;
 }
 h1 {
-  boder-bottom: 1px solid;
-  width: 60%;
+  border-bottom: 1px solid;
+margin: 0 10%;
   text-align: center;
 }
